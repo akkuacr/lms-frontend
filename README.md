@@ -11,4 +11,8 @@
 
   3. run the server
 
+## Setup instruction for tailwind
+ 
+  [tailwind official instruction doc](https://tailwindcss.com/docs/installation)
   
+
